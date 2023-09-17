@@ -9,4 +9,5 @@
     display: grid;
     gap: 45px;
     grid-template-columns: repeat(3, 1fr);
+    padding: 0px 50px;
 }
